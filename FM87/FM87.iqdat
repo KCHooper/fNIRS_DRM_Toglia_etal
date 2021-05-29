@@ -1,0 +1,236 @@
+date	script.currenttime	subject	blockcode	trialcode	posttrialpause	script.elapsedtime	response	correct	latency	stimulusitem1
+022619	13:09:21	87	studyblock5	nextlistmessage	1000	19730	0	0	1500	* * * * LIST 1 * * * *
+022619	13:09:52	87	studyblock5	studytrial5	0	50727	0	0	29500	musiclist.wav
+022619	13:09:55	87	studyblock2	nextlistmessage	1000	53360	0	0	1500	* * * * LIST 2 * * * *
+022619	13:10:26	87	studyblock2	studytrial2	0	84358	0	0	29500	doctorlist.wav
+022619	13:10:28	87	studyblock8	nextlistmessage	1000	86991	0	0	1500	* * * * LIST 3 * * * *
+022619	13:10:59	87	studyblock8	studytrial8	0	117988	0	0	29500	smelllist.wav
+022619	13:11:02	87	studyblock7	nextlistmessage	1000	120621	0	0	1500	* * * * LIST 4 * * * *
+022619	13:11:33	87	studyblock7	studytrial7	0	151618	0	0	29500	softlist.wav
+022619	13:11:35	87	studyblock6	nextlistmessage	1000	154251	0	0	1500	* * * * LIST 5 * * * *
+022619	13:12:06	87	studyblock6	studytrial6	0	185248	0	0	29500	slowlist.wav
+022619	13:12:09	87	studyblock4	nextlistmessage	1000	187881	0	0	1500	* * * * LIST 6 * * * *
+022619	13:12:40	87	studyblock4	studytrial4	0	218878	0	0	29500	mountainlist.wav
+022619	13:12:43	87	studyblock3	nextlistmessage	1000	221512	0	0	1500	* * * * LIST 7 * * * *
+022619	13:13:14	87	studyblock3	studytrial3	0	252509	0	0	29500	chairlist.wav
+022619	13:13:16	87	studyblock1	nextlistmessage	1000	255142	0	0	1500	* * * * LIST 8 * * * *
+022619	13:13:47	87	studyblock1	studytrial1	0	286139	0	0	29500	angerlist.wav
+022619	13:14:28	87	RecognitionPhase1	nonstudieditem	5000	326735	53	1	3752	z = old                                    / = new
+022619	13:14:40	87	RecognitionPhase1	list2likert	0	338384	80	0	6541	sharp
+022619	13:14:42	87	RecognitionPhase1	studieditem	5000	340784	44	1	2314	z = old                                    / = new
+022619	13:14:51	87	RecognitionPhase1	list1likert	0	350250	100	0	4328	stench
+022619	13:14:53	87	RecognitionPhase1	relatedlure	5000	351583	44	0	1241	z = old                                    / = new
+022619	13:15:00	87	RecognitionPhase1	lureslikert	0	358616	80	0	1925	music
+022619	13:15:05	87	RecognitionPhase1	studieditem	5000	363615	44	1	4910	z = old                                    / = new
+022619	13:15:17	87	RecognitionPhase1	list1likert	0	375514	55	0	6787	hear
+022619	13:15:19	87	RecognitionPhase1	nonstudieditem	5000	377447	53	1	1841	z = old                                    / = new
+022619	13:15:29	87	RecognitionPhase1	list2likert	0	387679	100	0	5117	person
+022619	13:15:31	87	RecognitionPhase1	studieditem	5000	390129	44	1	2361	z = old                                    / = new
+022619	13:15:41	87	RecognitionPhase1	list1likert	0	399578	50	0	4338	symphony
+022619	13:15:43	87	RecognitionPhase1	studieditem	5000	401528	44	1	1865	z = old                                    / = new
+022619	13:15:50	87	RecognitionPhase1	list1likert	0	409127	100	0	2473	nurse
+022619	13:15:52	87	RecognitionPhase1	nonstudieditem	5000	410711	53	1	1483	z = old                                    / = new
+022619	13:16:00	87	RecognitionPhase1	list2likert	0	418893	100	0	3074	shoe
+022619	13:16:01	87	RecognitionPhase1	relatedlure	5000	420276	44	0	1287	z = old                                    / = new
+022619	13:16:08	87	RecognitionPhase1	lureslikert	0	427243	35	0	1830	doctor
+022619	13:16:10	87	RecognitionPhase1	nonstudieditem	5000	428692	53	1	1356	z = old                                    / = new
+022619	13:16:18	87	RecognitionPhase1	list2likert	0	436508	100	0	2700	web
+022619	13:16:19	87	RecognitionPhase1	relatedlure	5000	438091	44	0	1488	z = old                                    / = new
+022619	13:16:27	87	RecognitionPhase1	lureslikert	0	445591	100	0	2380	mountain
+022619	13:16:28	87	RecognitionPhase1	nonstudieditem	5000	447057	53	1	1371	z = old                                    / = new
+022619	13:16:37	87	RecognitionPhase1	list2likert	0	455373	100	0	3197	boat
+022619	13:16:40	87	RecognitionPhase1	relatedlure	5000	459023	44	0	3557	z = old                                    / = new
+022619	13:16:49	87	RecognitionPhase1	lureslikert	0	467705	50	0	3569	chair
+022619	13:16:50	87	RecognitionPhase1	nonstudieditem	5000	469205	53	1	1401	z = old                                    / = new
+022619	13:16:58	87	RecognitionPhase1	list2likert	0	476488	100	0	2172	dream
+022619	13:16:59	87	RecognitionPhase1	studieditem	5000	478271	44	1	1682	z = old                                    / = new
+022619	13:17:07	87	RecognitionPhase1	list1likert	0	485437	100	0	2060	nose
+022619	13:17:08	87	RecognitionPhase1	relatedlure	5000	486837	44	0	1311	z = old                                    / = new
+022619	13:17:19	87	RecognitionPhase1	lureslikert	0	497453	100	0	5488	smell
+022619	13:17:21	87	RecognitionPhase1	nonstudieditem	5000	499619	53	1	2068	z = old                                    / = new
+022619	13:17:27	87	RecognitionPhase1	list2likert	0	505852	50	0	1121	fly
+022619	13:17:29	87	RecognitionPhase1	relatedlure	5000	507519	44	0	1580	z = old                                    / = new
+022619	13:17:36	87	RecognitionPhase1	lureslikert	0	514834	100	0	2208	anger
+022619	13:17:37	87	RecognitionPhase1	nonstudieditem	5000	515868	44	0	935	z = old                                    / = new
+022619	13:17:44	87	RecognitionPhase1	list2likert	0	523034	45	0	2057	hurt
+022619	13:17:47	87	RecognitionPhase1	studieditem	5000	525667	44	1	2541	z = old                                    / = new
+022619	13:17:55	87	RecognitionPhase1	list1likert	0	533416	100	0	2635	speed
+022619	13:17:57	87	RecognitionPhase1	studieditem	5000	535482	44	1	1969	z = old                                    / = new
+022619	13:18:04	87	RecognitionPhase1	list1likert	0	542615	100	0	2010	note
+022619	13:18:05	87	RecognitionPhase1	nonstudieditem	5000	544298	53	1	1584	z = old                                    / = new
+022619	13:18:13	87	RecognitionPhase1	list2likert	0	551348	90	0	1935	snore
+022619	13:18:14	87	RecognitionPhase1	nonstudieditem	5000	553081	53	1	1645	z = old                                    / = new
+022619	13:18:21	87	RecognitionPhase1	list2likert	0	560080	100	0	1876	boot
+022619	13:18:23	87	RecognitionPhase1	studieditem	5000	561413	53	0	1233	z = old                                    / = new
+022619	13:18:29	87	RecognitionPhase1	list1likert	0	568196	75	0	1672	bike
+022619	13:18:31	87	RecognitionPhase1	nonstudieditem	5000	569713	53	1	1425	z = old                                    / = new
+022619	13:18:38	87	RecognitionPhase1	list2likert	0	577095	85	0	2276	steal
+022619	13:18:40	87	RecognitionPhase1	studieditem	5000	578345	44	1	1151	z = old                                    / = new
+022619	13:18:50	87	RecognitionPhase1	list1likert	0	588394	70	0	4934	temper
+022619	13:18:52	87	RecognitionPhase1	studieditem	5000	590427	44	1	1942	z = old                                    / = new
+022619	13:18:58	87	RecognitionPhase1	list1likert	0	597243	85	0	1697	top
+022619	13:19:00	87	RecognitionPhase1	nonstudieditem	5000	598527	53	1	1196	z = old                                    / = new
+022619	13:19:07	87	RecognitionPhase1	list2likert	0	605343	100	0	1693	boy
+022619	13:19:08	87	RecognitionPhase1	nonstudieditem	5000	606659	53	1	1216	z = old                                    / = new
+022619	13:19:15	87	RecognitionPhase1	list2likert	0	614092	100	0	2314	creepy
+022619	13:19:17	87	RecognitionPhase1	nonstudieditem	5000	615442	53	1	1249	z = old                                    / = new
+022619	13:19:25	87	RecognitionPhase1	list2likert	0	623958	100	0	3398	woman
+022619	13:19:26	87	RecognitionPhase1	nonstudieditem	5000	625274	53	1	1220	z = old                                    / = new
+022619	13:19:34	87	RecognitionPhase1	list2likert	0	632590	100	0	2206	sandals
+022619	13:19:35	87	RecognitionPhase1	nonstudieditem	5000	633740	53	1	1052	z = old                                    / = new
+022619	13:19:42	87	RecognitionPhase1	list2likert	0	641256	100	0	2396	mouse
+022619	13:19:44	87	RecognitionPhase1	relatedlure	5000	642889	44	0	1546	z = old                                    / = new
+022619	13:19:52	87	RecognitionPhase1	lureslikert	0	650822	100	0	2826	slow
+022619	13:19:54	87	RecognitionPhase1	nonstudieditem	5000	652422	53	1	1500	z = old                                    / = new
+022619	13:20:01	87	RecognitionPhase1	list2likert	0	659688	100	0	2154	creek
+022619	13:20:02	87	RecognitionPhase1	studieditem	5000	661121	53	0	1340	z = old                                    / = new
+022619	13:20:10	87	RecognitionPhase1	list1likert	0	668554	100	0	2314	swivel
+022619	13:20:11	87	RecognitionPhase1	nonstudieditem	5000	669720	53	1	1073	z = old                                    / = new
+022619	13:20:19	87	RecognitionPhase1	list2likert	0	677719	100	0	2868	cute
+022619	13:20:20	87	RecognitionPhase1	studieditem	5000	679253	53	0	1448	z = old                                    / = new
+022619	13:20:27	87	RecognitionPhase1	list1likert	0	686319	100	0	1928	office
+022619	13:20:33	87	RecognitionPhase1	studieditem	5000	691335	44	1	4927	z = old                                    / = new
+022619	13:20:41	87	RecognitionPhase1	list1likert	0	700101	0	0	3643	loud
+022619	13:20:44	87	RecognitionPhase1	relatedlure	5000	702967	44	0	2774	z = old                                    / = new
+022619	13:20:51	87	RecognitionPhase1	lureslikert	0	710100	100	0	2015	soft
+022619	13:20:53	87	RecognitionPhase1	studieditem	5000	712249	44	1	2052	z = old                                    / = new
+022619	13:21:01	87	RecognitionPhase1	list1likert	0	719366	100	0	2001	couch
+022619	13:21:02	87	RecognitionPhase1	studieditem	5000	721299	44	1	1832	z = old                                    / = new
+022619	13:21:15	87	RecognitionPhase1	list1likert	0	733514	100	0	7095	table
+022619	13:21:17	87	RecognitionPhase1	studieditem	5000	735331	53	0	1722	z = old                                    / = new
+022619	13:21:23	87	RecognitionPhase1	list1likert	0	741547	50	0	1108	health
+022619	13:21:24	87	RecognitionPhase1	studieditem	5000	743013	44	1	1367	z = old                                    / = new
+022619	13:21:31	87	RecognitionPhase1	list1likert	0	750296	100	0	2165	hatred
+022619	13:21:33	87	RecognitionPhase1	studieditem	5000	751463	44	1	1076	z = old                                    / = new
+022619	13:21:40	87	RecognitionPhase1	list1likert	0	758645	100	0	2061	hill
+022619	13:21:45	87	RecognitionPhase1	nonstudieditem	5000	764061	53	1	5316	z = old                                    / = new
+022619	13:21:54	87	RecognitionPhase1	list2likert	0	773144	100	0	3967	thread
+022619	13:21:55	87	RecognitionPhase1	studieditem	5000	774277	44	1	1039	z = old                                    / = new
+022619	13:22:04	87	RecognitionPhase1	list1likert	0	782393	100	0	3002	hard
+022619	13:22:05	87	RecognitionPhase1	nonstudieditem	5000	783543	53	1	1054	z = old                                    / = new
+022619	13:22:12	87	RecognitionPhase1	list2likert	0	790576	100	0	1908	villain
+022619	13:22:13	87	RecognitionPhase1	studieditem	5000	791859	44	1	1187	z = old                                    / = new
+022619	13:22:23	87	RecognitionPhase1	list1likert	0	802091	100	0	5113	mad
+022619	13:22:25	87	RecognitionPhase1	studieditem	5000	803974	44	1	1796	z = old                                    / = new
+022619	13:22:34	87	RecognitionPhase1	list1likert	0	812540	100	0	3457	fast
+022619	13:22:36	87	RecognitionPhase1	nonstudieditem	5000	814757	53	1	2115	z = old                                    / = new
+022619	13:22:44	87	RecognitionPhase1	list2likert	0	822356	100	0	2492	money
+022619	13:22:46	87	RecognitionPhase1	nonstudieditem	5000	824489	53	1	2032	z = old                                    / = new
+022619	13:22:56	87	RecognitionPhase1	list2likert	0	835038	100	0	5419	bed
+022619	13:22:58	87	RecognitionPhase1	studieditem	5000	837105	44	1	1981	z = old                                    / = new
+022619	13:23:05	87	RecognitionPhase1	list1likert	0	844137	100	0	1901	snail
+022619	13:23:07	87	RecognitionPhase1	studieditem	5000	845670	44	1	1436	z = old                                    / = new
+022619	13:23:14	87	RecognitionPhase1	list1likert	0	852786	100	0	2002	furry
+022619	13:23:15	87	RecognitionPhase1	studieditem	5000	854120	53	0	1238	z = old                                    / = new
+022619	13:23:23	87	RecognitionPhase1	list1likert	0	861819	100	0	2578	radio
+022619	13:23:24	87	RecognitionPhase1	nonstudieditem	5000	862869	53	1	961	z = old                                    / = new
+022619	13:23:31	87	RecognitionPhase1	list2likert	0	870301	100	0	2323	dress
+022619	13:23:33	87	RecognitionPhase1	nonstudieditem	5000	871451	53	1	1052	z = old                                    / = new
+022619	13:23:40	87	RecognitionPhase1	list2likert	0	878684	100	0	2120	water
+022619	13:24:32	87	studyblock16	nextlistmessage2	1000	930829	0	0	1500	* * * * LIST 1 * * * *
+022619	13:24:38	87	studyblock16	smokeluremessage	1000	936845	0	0	4500	critical lure:
+022619	13:25:09	87	studyblock16	studytrial16	0	967842	0	0	29500	smokelist.wav
+022619	13:25:13	87	studyblock16	nonlistitems9	5000	971726	53	0	3797	z = old                                    / = new
+022619	13:25:20	87	studyblock16	listitems9	5000	978608	44	0	1820	z = old                                    / = new
+022619	13:25:26	87	studyblock16	nonlistitems9	5000	985174	53	0	1505	z = old                                    / = new
+022619	13:25:33	87	studyblock16	listitems9	5000	991807	44	0	1574	z = old                                    / = new
+022619	13:25:39	87	studyblock16	listitems9	5000	998173	44	0	1310	z = old                                    / = new
+022619	13:25:46	87	studyblock16	nonlistitems9	5000	1004739	53	0	1513	z = old                                    / = new
+022619	13:25:52	87	studyblock16	lures9	5000	1010672	53	0	869	z = old                                    / = new
+022619	13:25:59	87	studyblock11	nextlistmessage2	1000	1018271	0	0	1500	* * * * LIST 2 * * * *
+022619	13:26:05	87	studyblock11	highluremessage	1000	1024271	0	0	4500	critical lure:
+022619	13:26:36	87	studyblock11	studytrial11	0	1055268	0	0	29500	highlist.wav
+022619	13:26:38	87	studyblock11	lures4	5000	1057251	53	0	1888	z = old                                    / = new
+022619	13:26:45	87	studyblock11	listitems4	5000	1064117	44	0	1814	z = old                                    / = new
+022619	13:26:52	87	studyblock11	nonlistitems4	5000	1071066	53	0	1866	z = old                                    / = new
+022619	13:26:59	87	studyblock11	nonlistitems4	5000	1077999	53	0	1881	z = old                                    / = new
+022619	13:27:06	87	studyblock11	listitems4	5000	1084548	44	0	1466	z = old                                    / = new
+022619	13:27:12	87	studyblock11	nonlistitems4	5000	1091248	53	0	1645	z = old                                    / = new
+022619	13:27:19	87	studyblock11	listitems4	5000	1098281	53	1	1981	z = old                                    / = new
+022619	13:27:27	87	studyblock13	nextlistmessage2	1000	1105896	0	0	1500	* * * * LIST 3 * * * *
+022619	13:27:33	87	studyblock13	roughluremessage	1000	1111896	0	0	4500	critical lure:
+022619	13:28:04	87	studyblock13	studytrial13	0	1142893	0	0	29500	roughlist.wav
+022619	13:28:06	87	studyblock13	listitems6	5000	1145193	53	1	2213	z = old                                    / = new
+022619	13:28:12	87	studyblock13	nonlistitems6	5000	1151309	53	0	1057	z = old                                    / = new
+022619	13:28:19	87	studyblock13	listitems6	5000	1157708	44	0	1332	z = old                                    / = new
+022619	13:28:25	87	studyblock13	nonlistitems6	5000	1163741	53	0	978	z = old                                    / = new
+022619	13:28:31	87	studyblock13	nonlistitems6	5000	1169574	53	0	772	z = old                                    / = new
+022619	13:28:36	87	studyblock13	lures6	5000	1175323	53	0	686	z = old                                    / = new
+022619	13:28:43	87	studyblock13	listitems6	5000	1182239	44	0	1859	z = old                                    / = new
+022619	13:28:51	87	studyblock14	nextlistmessage2	1000	1189839	0	0	1500	* * * * LIST 4 * * * *
+022619	13:28:57	87	studyblock14	sweetluremessage	1000	1195838	0	0	4500	critical lure:
+022619	13:29:28	87	studyblock14	studytrial14	0	1226835	0	0	29500	sweetlist.wav
+022619	13:29:31	87	studyblock14	listitems7	5000	1229385	44	0	2453	z = old                                    / = new
+022619	13:29:37	87	studyblock14	nonlistitems7	5000	1235535	53	0	1097	z = old                                    / = new
+022619	13:29:43	87	studyblock14	nonlistitems7	5000	1241434	53	0	820	z = old                                    / = new
+022619	13:29:51	87	studyblock14	listitems7	5000	1249516	44	0	3029	z = old                                    / = new
+022619	13:29:57	87	studyblock14	lures7	5000	1256182	53	0	1607	z = old                                    / = new
+022619	13:30:03	87	studyblock14	nonlistitems7	5000	1262199	53	0	961	z = old                                    / = new
+022619	13:30:10	87	studyblock14	listitems7	5000	1268831	44	0	1580	z = old                                    / = new
+022619	13:30:18	87	studyblock12	nextlistmessage2	1000	1276431	0	0	1500	* * * * LIST 5 * * * *
+022619	13:30:24	87	studyblock12	trashluremessage	1000	1282430	0	0	4500	critical lure:
+022619	13:30:55	87	studyblock12	studytrial12	0	1313427	0	0	29500	trashlist.wav
+022619	13:30:56	87	studyblock12	listitems5	5000	1315144	44	0	1626	z = old                                    / = new
+022619	13:31:02	87	studyblock12	nonlistitems5	5000	1321226	53	0	1022	z = old                                    / = new
+022619	13:31:09	87	studyblock12	listitems5	5000	1327826	44	0	1545	z = old                                    / = new
+022619	13:31:15	87	studyblock12	lures5	5000	1334275	53	0	1394	z = old                                    / = new
+022619	13:31:22	87	studyblock12	nonlistitems5	5000	1340358	53	0	1017	z = old                                    / = new
+022619	13:31:28	87	studyblock12	listitems5	5000	1347041	44	0	1629	z = old                                    / = new
+022619	13:31:35	87	studyblock12	nonlistitems5	5000	1353424	53	0	1321	z = old                                    / = new
+022619	13:31:42	87	studyblock9	nextlistmessage2	1000	1361023	0	0	1500	* * * * LIST 6 * * * *
+022619	13:31:48	87	studyblock9	coldluremessage	1000	1367022	0	0	4500	critical lure:
+022619	13:32:19	87	studyblock9	studytrial9	0	1398019	0	0	29500	coldlist.wav
+022619	13:32:22	87	studyblock9	nonlistitems2	5000	1400436	53	0	2323	z = old                                    / = new
+022619	13:32:28	87	studyblock9	lures2	5000	1406852	53	0	1354	z = old                                    / = new
+022619	13:32:35	87	studyblock9	listitems2	5000	1413468	44	0	1554	z = old                                    / = new
+022619	13:32:41	87	studyblock9	listitems2	5000	1419784	44	0	1260	z = old                                    / = new
+022619	13:32:51	87	studyblock9	listitems2	5000	1429450	44	0	4609	z = old                                    / = new
+022619	13:32:58	87	studyblock9	nonlistitems2	5000	1436582	53	0	2071	z = old                                    / = new
+022619	13:33:04	87	studyblock9	nonlistitems2	5000	1443099	53	0	1451	z = old                                    / = new
+022619	13:33:12	87	studyblock10	nextlistmessage2	1000	1450698	0	0	1500	* * * * LIST 7 * * * *
+022619	13:33:18	87	studyblock10	cupluremessage	1000	1456697	0	0	4500	critical lure:
+022619	13:33:49	87	studyblock10	studytrial10	0	1487694	0	0	29500	cuplist.wav
+022619	13:33:51	87	studyblock10	nonlistitems3	5000	1489594	53	0	1800	z = old                                    / = new
+022619	13:33:57	87	studyblock10	listitems3	5000	1496127	44	0	1481	z = old                                    / = new
+022619	13:34:04	87	studyblock10	lures3	5000	1503126	44	1	1927	z = old                                    / = new
+022619	13:34:11	87	studyblock10	listitems3	5000	1509609	44	0	1419	z = old                                    / = new
+022619	13:34:17	87	studyblock10	listitems3	5000	1516158	44	0	1496	z = old                                    / = new
+022619	13:34:23	87	studyblock10	nonlistitems3	5000	1522308	53	0	1094	z = old                                    / = new
+022619	13:34:30	87	studyblock10	nonlistitems3	5000	1528524	53	0	1163	z = old                                    / = new
+022619	13:34:37	87	studyblock15	nextlistmessage2	1000	1536123	0	0	1500	* * * * LIST 8 * * * *
+022619	13:34:43	87	studyblock15	windowluremessage	1000	1542123	0	0	4500	critical lure:
+022619	13:35:14	87	studyblock15	studytrial15	0	1573120	0	0	29500	windowlist.wav
+022619	13:35:16	87	studyblock15	listitems8	5000	1574803	44	0	1592	z = old                                    / = new
+022619	13:35:23	87	studyblock15	nonlistitems8	5000	1581419	53	0	1556	z = old                                    / = new
+022619	13:35:29	87	studyblock15	nonlistitems8	5000	1587552	53	0	1077	z = old                                    / = new
+022619	13:35:37	87	studyblock15	listitems8	5000	1596234	53	1	3630	z = old                                    / = new
+022619	13:35:43	87	studyblock15	lures8	5000	1602267	53	0	981	z = old                                    / = new
+022619	13:35:49	87	studyblock15	nonlistitems8	5000	1608283	53	0	947	z = old                                    / = new
+022619	13:35:56	87	studyblock15	listitems8	5000	1614549	44	0	1205	z = old                                    / = new
+022619	13:38:06	87	readingpassage	readingpassage	0	1744754		1	115927	This passage is adapted from Emily Anthes, Frankenstein's Cat. ©2013 by Emily Anthes.    Retrieved from College Board 2015 SAT Practice Test #4    When scientists first learned how to edit the genomes of animals, they began to imagine all the ways they could use this new power. Creating brightly colored novelty pets was not a high priority. Instead, most researchers envisioned far more consequential applications, oping to create genetically engineered animals that saved human lives. One enterprise is now delivering on this dream. Welcome to the world of “pharming,” in which simple genetic tweaks turn animals into living pharmaceutical factories. Many of the proteins that our cells crank out naturally make for good medicine. Our bodies’ own enzymes, hormones, clotting factors, and antibodies are commonly used to treat cancer, diabetes, autoimmune diseases, and more. The trouble is that it’s difficult and expensive to make these compounds on an industrial scale, and as a result, patients can face shortages of the medicines they need. Dairy animals, on the other hand, are expert protein producers, their udders swollen with milk. So the creation of the first transgenic animals—first mice, then other species—in the 1980s gave scientists an idea: What if they put the gene for a human antibody or enzyme into a cow, goat, or sheep? If they put the gene in just the right place, under the control of the right molecular switch, maybe they could engineer animals that produced healing human proteins in their milk. Then doctors could collect medicine by the bucketful. Throughout the 1980s and ’90s, studies provided proof of principle, as scientists created transgenic mice, sheep, goats, pigs, cattle, and rabbits that did in fact make therapeutic compounds in their milk. At first, this work was merely gee-whiz, scientific geekery, lab-bound thought experiments come true. That all changed with ATryn, a drug produced by the Massachusetts firm GTC Biotherapeutics.
+022619	13:40:01	87	readingpassage	readingpassage2	0	1859810		1	115014	ATryn is antithrombin, an anticoagulant that can be used to prevent life-threatening blood clots. The compound, made by our liver cells, plays a key role in keeping our bodies clot-free. It acts as a molecular bouncer, sidling up to clot-forming compounds and escorting them out of the bloodstream. But as many as 1 in 2,000 Americans are born with a genetic mutation that prevents them from making antithrombin. These patients are prone to clots, especially in their legs and lungs, and they are at elevated risk of suffering from fatal complications during surgery and childbirth. Supplemental antithrombin can reduce this risk, and GTC decided to try to manufacture the compound using genetically engineered goats. To create its special herd of goats, GTC used microinjection, the same technique that produced GloFish and AquAdvantage salmon. The company’s scientists took the gene for human antithrombin and injected it directly into fertilized goat eggs. Then they implanted the eggs in the wombs of female goats. When the kids were born, some of them proved to be transgenic, the human gene nestled safely in their cells. The researchers paired the antithrombin gene with a promoter (which is a sequence of DNA that controls gene activity) that is normally active in the goat’s mammary glands during milk production. When the transgenic females lactated, the promoter turned the transgene on and the goats’ udders filled with milk containing antithrombin. All that was left to do was to collect the milk, and extract and purify the protein. Et voilà—human medicine! And, for GTC, liquid gold. ATryn hit the market in 2006, becoming the world’s first transgenic animal drug. Over the course of a year, the “milking parlors” on GTC’s 300-acre farm in Massachusetts can collect more than a kilogram of medicine from a single animal.
+022619	13:42:06	87	test	test	0	1984632	0	0	5000	0
+022619	13:42:06	87	test	test2	0	1985148	0	0	500	6
+022619	13:42:19	87	SurveyQuestions	NeedforCognition	0	1998181	8	0	5121	I would prefer complex to simple problems.
+022619	13:42:26	87	SurveyQuestions	NeedforCognition	0	2004430	8	0	6170	I like to have the responsibility of handling a situation that requires a lot of thinking.
+022619	13:42:32	87	SurveyQuestions	NeedforCognition	0	2010879	2	0	6392	Thinking is not my idea of fun.
+022619	13:42:37	87	SurveyQuestions	NeedforCognition	0	2015562	1	0	4615	I would rather do something that requires little thought than something that is sure to challenge my thinking abilities.
+022619	13:42:43	87	SurveyQuestions	NeedforCognition	0	2021762	2	0	6123	I try to anticipate and avoid situations where there is likely a chance I will have to think in depth about something.
+022619	13:42:50	87	SurveyQuestions	NeedforCognition	0	2029311	6	0	7469	I find satisfaction in deliberating hard and for long hours.
+022619	13:42:57	87	SurveyQuestions	NeedforCognition	0	2035377	5	0	5983	I only think as hard as I have to.
+022619	13:43:02	87	SurveyQuestions	NeedforCognition	0	2040977	9	0	5518	I prefer to think about small, daily projects to long-term ones.
+022619	13:43:08	87	SurveyQuestions	NeedforCognition	0	2047276	4	0	6214	I like tasks that require little thought once I’ve learned them.
+022619	13:43:15	87	SurveyQuestions	NeedforCognition	0	2053709	8	0	6362	The idea of relying on thought to make my way to the top appeals to me.
+022619	13:43:21	87	SurveyQuestions	NeedforCognition	0	2059925	9	0	6130	I really enjoy a task that involves coming up with new solutions to problems.
+022619	13:43:25	87	SurveyQuestions	NeedforCognition	0	2064308	1	0	4305	Learning new ways to think doesn’t excite me very much.
+022619	13:43:29	87	SurveyQuestions	NeedforCognition	0	2068274	6	0	3890	I prefer my life to be filled with puzzles that I must solve.
+022619	13:43:35	87	SurveyQuestions	NeedforCognition	0	2073424	7	0	5084	The notion of thinking abstractly is appealing to me.
+022619	13:43:49	87	SurveyQuestions	NeedforCognition	0	2088306	8	0	14806	I would prefer a task that is intellectual, difficult, and important to one that is somewhat important but does not require much thought.
+022619	13:43:57	87	SurveyQuestions	NeedforCognition	0	2095338	7	0	6957	I feel relief rather than satisfaction after completing a task that required a lot of mental effort.
+022619	13:44:04	87	SurveyQuestions	NeedforCognition	0	2102371	5	0	6956	It’s enough for me that something gets the job done; I don’t care how or why it works.
+022619	13:44:10	87	SurveyQuestions	NeedforCognition	0	2109120	8	0	6667	I usually end up deliberating about issues even when they do not affect me personally.
+022619	13:44:23	87	SurveyQuestions	sex	0	2121936	Female	1	12737	0
+022619	13:44:23	87	SurveyQuestions	age	0	2121936	21	1	12737	0
+022619	13:44:23	87	SurveyQuestions	handedness	0	2121936	Right	1	12737	0
+022619	13:44:23	87	SurveyQuestions	education	0	2121936	Junior	1	12737	0
+022619	13:44:23	87	SurveyQuestions	ethnicity	0	2121936	Asian	1	12737	0
